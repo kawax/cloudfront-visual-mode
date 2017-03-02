@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:     Enable Visual Mode in CloudFront
- * Plugin URI:      https://github.com/kawax/cloudfront-visual-mode
+ * Plugin URI:      https://github.com/kawax
  * Description:     Enable Visual Mode in CloudFront
  * Author:          kawax
  * Author URI:      https://github.com/kawax
