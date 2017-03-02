@@ -1,6 +1,5 @@
-=== CloudFront Visual Mode ===
+=== Enable Visual Mode in CloudFront ===
 Contributors: kawax
-Donate link: http://example.com/
 Tags: post,editor,cloudfront
 Requires at least: 4.7.2
 Tested up to: 4.7.2

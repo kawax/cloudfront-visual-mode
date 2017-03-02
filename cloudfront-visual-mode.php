@@ -1,13 +1,12 @@
 <?php
 /**
- * Plugin Name:     CloudFront Visual Mode
+ * Plugin Name:     Enable Visual Mode in CloudFront
  * Plugin URI:      https://github.com/kawax/cloudfront-visual-mode
  * Description:     Enable Visual Mode in CloudFront
  * Author:          kawax
  * Author URI:      https://github.com/kawax
  * Version:         1.0.0
  *
- * @package         Cloudfront_Visual_Mode
  */
 
 add_filter('user_can_richedit', function () {
