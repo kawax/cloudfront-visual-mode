@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:     Enable Visual Mode in CloudFront
+ * Version: 1.0.0
  * Plugin URI:      https://github.com/kawax/visual-mode-in-cloudfront
  * Description:     Enable Visual Mode in CloudFront
  * Author:          kawax
  * Author URI:      https://github.com/kawax
- * Version:         1.0.0
  * License:         GPLv2 or later
  * License URI:     http://www.gnu.org/licenses/gpl-2.0.html
  *
