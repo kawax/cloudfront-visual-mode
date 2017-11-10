@@ -11,3 +11,4 @@ deploy-plugin.sh
 ```
 
 WPのバージョンアップへの対応だけなら`Tested up to`の変更とプラグインバージョンの変更のみ。
+git tag は設定せずに実行する。 `deploy-plugin.sh` がreadmeとプラグインファイルのバージョンから自動で設定する。
