@@ -1,0 +1,15 @@
+{
+    "name": "revolution/visual-mode-in-cloudfront",
+    "description": "Enable Visual mode in CloudFront",
+    "keywords": [
+        "wordpress"
+    ],
+    "license": "GPL-2.0",
+    "type": "wordpress-muplugin",
+    "authors": [
+        {
+            "name": "kawax",
+            "email": "kawaxbiz@gmail.com"
+        }
+    ]
+}
