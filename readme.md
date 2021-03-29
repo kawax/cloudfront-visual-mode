@@ -3,8 +3,8 @@
 **Tags:** post,editor,cloudfront
 **Requires at least:** 4.7.2
 **Requires PHP:** 5.6
-**Tested up to:** 4.9.0
-**Stable tag:** 1.0.4
+**Tested up to:** 5.7.0
+**Stable tag:** 1.0.5
 **License:** GPLv2 or later
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +14,7 @@ Enable Visual Mode in CloudFront
 When using WordPress in CloudFront, Visual mode can not be used.
 Because User-Agent is rewritten.
 
-This plugin checks the CloudFront-Is-Desktop-Viewer header to use Visual mode.
+This plugin checks the `CloudFront-Is-Desktop-Viewer` header to use Visual mode.
 
 ## Installation ##
 
@@ -24,6 +24,13 @@ This plugin checks the CloudFront-Is-Desktop-Viewer header to use Visual mode.
 ### CloudFront Behavior settings ###
 
 Add `CloudFront-Is-Desktop-Viewer` to Whitelist Headers.
+
+### Install with composer
+Recommended for use with composer and Bedrock.
+
+```
+composer require revolution/visual-mode-in-cloudfront
+```
 
 ## Frequently Asked Questions ##
 
